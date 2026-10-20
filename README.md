@@ -5,7 +5,9 @@ Arduino UNO R3로 LED, 버튼, 가변저항, 소리 센서, 7세그먼트를 다
 
 ## 정리 웹페이지
 
-[`docs/index.html`](docs/index.html)을 브라우저로 열면 오늘 배운 내용을 그림과 함께 볼 수 있습니다.
+**https://ranma0831-lang.github.io/arduino-uno-practice/**
+
+오늘 배운 내용을 그림과 함께 볼 수 있습니다. 원본은 [`docs/index.html`](docs/index.html)입니다.
 
 - MCU · OS · GPIO 개념
 - 보드 핀 배치 (핀을 누르면 설명이 나오는 보드 그림)
